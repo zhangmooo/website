@@ -8,8 +8,12 @@ h1 {
   text-align: center;
 }
 
-.input input[type="text"]{
+input {
   border: 5px solid black;  
-  width: 500px;
+  width: 100%;
   height:20px;
+}
+
+button {
+  width: fit-content
 }

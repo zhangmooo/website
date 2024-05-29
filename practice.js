@@ -1,7 +1,7 @@
 function getvalues(){
-    var values1= document.querySelector('input[placeholder="First name"]').value;
-    var values2= document.querySelector('input[placeholder="Last name"]').value;
-    var values3= doucment.querySelector('input[placeholder="Email"]').value;
+    var value1= document.querySelector('input[placeholder="First name"]').value;
+    var value2= document.querySelector('input[placeholder="Last name"]').value;
+    var value3= document.querySelector('input[placeholder="Email"]').value;
 
     return [value1,value2,value3];
  }
